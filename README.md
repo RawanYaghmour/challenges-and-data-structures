@@ -4,6 +4,8 @@
 1. [Whiteboard Images](#whiteboard-images)
 2. [Challenge A: Array Reversal](#challenge-a-array-reversal)
 3. [Challenge B: Most Frequent Number](#challenge-b-most-frequent-number)
+4. [Maximum-Value-Challenge](#Maximum-Value-challenge)
+
 
 ## Whiteboard Images
 Images used for illustrating the solutions and explanations.
@@ -13,3 +15,6 @@ Images used for illustrating the solutions and explanations.
 
 ## Challenge B: Most Frequent Number
 [Link](./whiteboard-challenges/Most%20Frequent%20Number/Most%20Frequent%20Number.jpg)
+
+## Maximum-Value-Challenge
+[Link](./whiteboard-challenges/Maximum-Value/Maximum-Value.jpg)
