@@ -5,6 +5,8 @@
 2. [Challenge A: Array Reversal](#challenge-a-array-reversal)
 3. [Challenge B: Most Frequent Number](#challenge-b-most-frequent-number)
 4. [Maximum-Value-Challenge](#Maximum-Value-challenge)
+4. [Remove-Middle-Value](#Remove-Middle-Value)
+
 
 
 ## Whiteboard Images
@@ -18,3 +20,6 @@ Images used for illustrating the solutions and explanations.
 
 ## Maximum-Value-Challenge
 [Link](./whiteboard-challenges/Maximum-Value/Maximum-Value.jpg)
+
+## Remove-Middle-Value
+[Link](./whiteboard-challenges/Remove-Middle-Value/Remove-Middle-Value.jpg)
