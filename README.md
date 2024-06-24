@@ -6,6 +6,7 @@
 3. [Challenge B: Most Frequent Number](#challenge-b-most-frequent-number)
 4. [Maximum-Value-Challenge](#Maximum-Value-challenge)
 4. [Remove-Middle-Value](#Remove-Middle-Value)
+5. [Insert-Middle-Value](#Insert-Middle-Value)
 
 
 
@@ -23,3 +24,6 @@ Images used for illustrating the solutions and explanations.
 
 ## Remove-Middle-Value
 [Link](./whiteboard-challenges/Remove-Middle-Value/Remove-Middle-Value.jpg)
+
+## Insert-Middle-Value
+[Link](./whiteboard-challenges/Insert%20Value%20in%20Middle%20of%20Array/Insert-Middle-Value.jpg)
