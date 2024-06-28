@@ -7,6 +7,8 @@
 4. [Maximum-Value-Challenge](#Maximum-Value-challenge)
 4. [Remove-Middle-Value](#Remove-Middle-Value)
 5. [Insert-Middle-Value](#Insert-Middle-Value)
+5. [Find-Duplicates ](#Find-Duplicates)
+
 
 
 
@@ -27,3 +29,10 @@ Images used for illustrating the solutions and explanations.
 
 ## Insert-Middle-Value
 [Link](./whiteboard-challenges/Insert%20Value%20in%20Middle%20of%20Array/Insert-Middle-Value.jpg)
+
+## Find-Duplicates 
+Link for whiteboard:
+[Link](./Challenges/Find-Duplicates/FindDuplicates.jpg)
+
+Link for console output:
+[Link](./Challenges/Find-Duplicates/consol-cc5.PNG)
